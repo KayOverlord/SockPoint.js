@@ -1,0 +1,45 @@
+body{
+    height:100%;
+    width:100%;
+    padding:0px;
+    margin:0px;
+}
+
+#headtext{
+    height:100vh;
+    width:100%;
+    display: table;
+    vertical-align: middle;
+    background-color: rgb(45, 26, 99);
+    
+
+}
+
+#headTitle{
+    margin-top:10%;
+    text-align: center;
+    color: white;
+    font-size: 800%;
+    font-family: 'Quicksand', sans-serif;
+}
+
+#headSubTitle{
+    width:100%;
+    vertical-align: middle;
+    text-align: center;
+    color: white;
+    font-size: 400%;
+    font-family: 'Amatic SC', cursive;
+}
+
+#mainbody{
+    height:100%;
+    color: white;
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+    background-color: rgb(27, 44, 100);
+}
+#coretitle{
+    padding-top: 10%;
+    opacity:0;
+}
